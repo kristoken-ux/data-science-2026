@@ -1,11 +1,6 @@
-# Data Science 2026
+# data science 2026
 
-This repository is for data science work.
-It includes:
-- Data analysis
-- Experiments
-- Scripts
-- Models
+hands-on datascience 2026 UNSIA
 
-## Notes
-Content may change over time as I test ideas and improve workflows.
+# Author
+200401010117 - Kristiopan
